@@ -1,3 +1,6 @@
+## Try it out
+https://play.kotlinlang.org/embed?short=HwbKXZOup&theme=darcula&from=1&to=27
+
 ## Example
 
 ```kotlin
