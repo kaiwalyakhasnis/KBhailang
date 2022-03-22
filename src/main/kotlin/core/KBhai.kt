@@ -1,5 +1,7 @@
 package core
 
+import core.builders.BhaiBlockBuilder
+
 object bhai
 
 @DslMarker

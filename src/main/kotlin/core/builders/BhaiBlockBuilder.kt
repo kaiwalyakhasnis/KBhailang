@@ -1,7 +1,7 @@
-package core
+package core.builders
 
-import core.builders.BhaiIfBlockBuilder
-import core.builders.BhaiWhileBlockBuilder
+import core.KBhaiLangDsl
+import core.bhai
 
 @KBhaiLangDsl
 class BhaiBlockBuilder {
