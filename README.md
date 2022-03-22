@@ -25,3 +25,22 @@ Kbhai {
         }
     }
 ```
+
+## Use as dependency
+<b>Step 1</b>. Add the JitPack repository to your build file
+```groovy
+	allprojects {
+		repositories {
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+<b>Step 2</b>. Add the dependency
+```gradle
+    dependencies {
+	        implementation 'com.github.kaiwalyakhasnis:KBhailang:0.0.3'
+	}
+```
+
+
+
